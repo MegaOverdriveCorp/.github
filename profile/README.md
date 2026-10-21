@@ -1,4 +1,4 @@
-                                             
+```                                             
                                                                                         
                                                       
              2026   P R E S E N T S   T H E   C O R P O R A T I O N
@@ -57,4 +57,4 @@
  │ 2 PROJECTS        // MORE IDEAS IN THE WORKS                              │
  │ BUILT IN OVERDRIVE.                                                       │
  └───────────────────────────────────────────────────────────────────────────┘
-               SUPPORT THE TEAM IF YOU LIKE THIS SOFTWARE!
+               SUPPORT THE TEAM IF YOU LIKE THIS SOFTWARE!```
